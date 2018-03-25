@@ -1,0 +1,172 @@
+
+
+.fb-profile img.fb-image-lg{
+    z-index: 0;
+    width: 100%;  
+    margin-bottom: 10px;
+}
+
+.fb-image-profile
+{
+    margin: -90px 10px 0px 50px;
+    z-index: 9;
+    width: 20%; 
+}
+
+@media (max-width:768px)
+{
+    
+.fb-profile-text>h2{
+    font-weight: 700;
+    font-size:14px;
+}
+
+.fb-image-profile
+{
+    margin: -45px 10px 0px 25px;
+    z-index: 9;
+    width: 20%; 
+}
+}
+#c1{
+    
+    font-family:cursive;
+    font-size: 35px;
+    word-spacing: .1em;
+    color:aquamarine;
+}
+#c1 a:hover{
+    display:block;
+ background-color: #f1684cfa;
+    
+}
+h1{
+margin:0 !important;	
+padding:0 !important;	
+	
+	
+}
+
+#section-a{
+    width:100%;
+    height:450px;
+     display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+    
+    
+    }
+	
+    .back{
+    background:url('my/pexels-photo-57690.jpeg') no-repeat;
+    background-size:cover;
+   background-attachment:fixed;
+    width:100%;
+    height:450px;
+    z-index: -1;
+    position: absolute;
+    
+    }
+    
+    
+    .content{
+      display: inline-block;
+      margin:auto;
+      color:#333;
+      background:rgba(235, 226, 226, 0.8);
+      padding:1rem;
+      text-align: center;
+    border-radius:20px;
+    
+    
+    
+    
+    }
+    
+@media(max-width:500px){
+
+.content{
+margin:1rem;
+
+}
+
+
+}
+
+
+
+    
+
+
+
+/*
+.c2{
+    
+    background: url(../Pictogram/images/pexels-photo-57691.jpeg) no-repeat ;
+    background-size: cover;
+    background-attachment: fixed;
+    width:100%;
+    height: 90%;
+    display: block;
+    opacity:.9;
+    z-index:-1;
+    
+}
+*/
+.content{
+    position: absolute;
+    top:0;
+    
+    
+    
+}
+.c3{
+    background-color:#f1684cfa;
+    font-family: cursive;
+    padding-top:50px;
+    padding-bottom: 40px;
+    
+}
+.c4{
+    background-color:#f1684cfa;
+    
+    
+   
+}
+h2{
+    color:#fff;
+    
+}
+
+#p_font{
+    font-size:120%;
+    font-family: cursive;
+}
+#contact{
+   margin-top: 5%;
+    margin-bottom: 8%;
+}
+#l1 a{
+    
+    font-size:15px;
+    color:white;
+    
+}
+#l1 a:hover{
+    
+  display:block;
+ background-color: #f1684cfa;
+    
+}
+.login_div{
+
+background-color:antiquewhite;
+margin-top:160px;
+    opacity: .9;
+
+}
+#log_field{
+    font-size:22px;
+    font-family: Segoe Script;
+}
